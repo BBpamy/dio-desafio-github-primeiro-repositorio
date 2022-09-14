@@ -1,2 +1,11 @@
-# Repositorio Desafio sobre projeto do Git/GitHub da Dio.me
-Desafio de projeto sobre git/github
+# DESAFO DE PROJETO GIT/ GITHUB DA DIO.me
+REPOSITORIO CRIADO PARA DESAFIO DE PROJETO
+
+## Links Uteis
+
+[Sintaxe Basica Markdawn](https://www.markdownguide.org/getting-started/)
+
+
+
+
+
